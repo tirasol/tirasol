@@ -1,7 +1,9 @@
-탭스페이스(TabSpace) 대표 @tirasol 입니다.
+It's me @tirasol
 
-오픈소스 오토메이션 플랫폼인 HomeAssistant와 SBC(SingleBoardComputer)기반 임베디드 솔루션을 개발하고 있습니다.
+I'm TabSpace CEO
 
-홈페이지 : https://www.tabspace.kr
+TabSpace provides HomeAssistant total solution and Embedded customized firmware solution.
 
-사업과 관련한 협업 문의 : ceo@tabspace.kr
+Homepage : https://www.tabspace.kr
+
+Contact : ceo@tabspace.kr
